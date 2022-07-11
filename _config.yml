@@ -13,8 +13,8 @@ port: 4100
 carpentry: "sp"
 
 # Overall title for pages.
-title: "SIH Bioinformatics"
-series_name: "RNA sequencing series"
+title: "RNA sequencing training series"
+series_name: "Bioinformatics"
 
 # What kind of thing is this ("workshop" or "lesson" or "series")?
 # IF THIS IS A LESSON, RENAME .lesson.index.md to index.md
@@ -51,7 +51,7 @@ email: "sih.training@sydney.edu.au"
 sih_site: "https://informatics.sydney.edu.au"
 sih_github: "https://github.com/Sydney-Informatics-Hub"
 sih_pages: "https://sydney-informatics-hub.github.io"
-series_home: "https://informatics.sydney.edu.au/training-RNAseq.series/" #edit if you want to point to series landing page
+series_home: "https://informatics.sydney.edu.au/training.RNAseq.series/" #edit if you want to point to series landing page
 training_home: "https://informatics.sydney.edu.au/training/" # edit if you want to point somewhere else except for SIH
 
 # Carpentries sites
