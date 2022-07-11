@@ -11,8 +11,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 > ## Prerequisites
 > * Familiarity with [Unix/Linux command line](https://datacarpentry.org/shell-genomics/)
 > * Familiarity with [R/Rstudio](https://datacarpentry.org/genomics-r-intro/)
-> * **OWN LAPTOP REQUIRED**.
-
+> * **OWN LAPTOP REQUIRED**
 {: .prereq}
 
 # Differential expression and pathway analysis 
