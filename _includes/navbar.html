@@ -57,6 +57,8 @@
 
 	      {% comment %} Always show code of conduct. {% endcomment %}
         <li><a href="{{ page.root }}{% link CODE_OF_CONDUCT.md %}">Code of Conduct</a></li>
+              {% comment %} Show About page - TC custom addition. {% endcomment %}
+	              <li><a href="{{ page.root }}{% link ABOUT.md %}">About</a></li>
         {% if site.kind == "lesson" %}
 	      {% comment %} Show setup instructions. {% endcomment %}
         <li><a href="{{ page.root }}{% link setup.md %}">Setup</a></li>
