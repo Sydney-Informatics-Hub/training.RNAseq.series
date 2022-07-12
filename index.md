@@ -4,14 +4,13 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-**Synopsis:** This workshop series will introduce you to RNA sequencing data analysis for differential expression and pathway enrichment. This is suitable for people who are new to the command line interface and analysis in R. 
-
+**Synopsis:** This workshop series will introduce you to __RNA sequencing data analysis for differential expression and pathway enrichment__. This is suitable for people who are __new to the command line interface and R__. 
 **Target audience:** Researchers, students and life scientists who would like to analyse their RNA sequencing data using the command line interface and R. 
 
 > ## Prerequisites
-> Familiarity with [Unix/Linux command line](https://datacarpentry.org/shell-genomics/)
-> Familiarity with [R/Rstudio](https://datacarpentry.org/genomics-r-intro/)
-> **Own laptop and access to Pawsey Nimbus is required
+> * Familiarity with [Unix/Linux command line](https://datacarpentry.org/shell-genomics/)
+> * Familiarity with [R/Rstudio](https://datacarpentry.org/genomics-r-intro/)
+> * **Own laptop and access to Pawsey Nimbus is required**
 {: .prereq}
 
 # Differential expression and pathway analysis 
