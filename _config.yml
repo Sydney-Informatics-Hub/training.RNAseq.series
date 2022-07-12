@@ -14,7 +14,7 @@ carpentry: "sp"
 
 # Overall title for pages.
 title: "RNA sequencing training series"
-series_name: "Bioinformatics"
+series_name: "Home"
 
 # What kind of thing is this ("workshop" or "lesson" or "series")?
 # IF THIS IS A LESSON, RENAME .lesson.index.md to index.md
