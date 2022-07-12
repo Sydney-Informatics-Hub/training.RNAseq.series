@@ -5,6 +5,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 ---
 
 **Synopsis:** This workshop series will introduce you to __RNA sequencing data analysis for differential expression and pathway enrichment__. This is suitable for people who are __new to the command line interface and R__. 
+
 **Target audience:** Researchers, students and life scientists who would like to analyse their RNA sequencing data using the command line interface and R. 
 
 > ## Prerequisites
