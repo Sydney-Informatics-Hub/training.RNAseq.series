@@ -22,7 +22,7 @@ __This series is in a DRAFT stage.__
 |---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Introductory slides                                           | Slides that provide the essential theory behind RNA-sequencing experiments for differential expression, and what will be covered in Part 1 & 2 of the RNA sequencing training series            |
 | [Part 1. Raw sequence to counts](https://sydney-informatics-hub.github.io/training.RNAseq.partone/)                        | Part 1 of the two-part RNA sequencing workshop series is where participants will understand raw files and use nf.co.re's rnaseq pipeline to transform raw sequencing data into analysis ready count data     |
-| [Part 2. Counts to differential genes and pathways](https://sydney-informatics-hub.github.io/training.RNAseq.parttwo/) | Part 2 of the two-part RNA sequencing workshop series is where participants will use analysis ready raw count data generated in part 1 of the series to perform differential expression and pathway analysis |
+| [Part 2. Counts to genes and pathways](https://sydney-informatics-hub.github.io/training.RNAseq.parttwo/) | Part 2 of the two-part RNA sequencing workshop series is where participants will use analysis ready raw count data generated in part 1 of the series to perform differential expression and pathway analysis |
 
 {% include links.md %}
 
